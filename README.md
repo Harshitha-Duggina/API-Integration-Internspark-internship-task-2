@@ -43,7 +43,6 @@ It showcases hoe to work with both authenticated APIs(requiring API keys) and pu
 
 ## Sample output
 API Integration Tool - Weather / Crypto / News
-No signup needed for any API
 1.Weather
 2.Crypto
 3.News
