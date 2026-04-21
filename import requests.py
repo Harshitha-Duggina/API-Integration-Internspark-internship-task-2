@@ -66,7 +66,6 @@ def get_news(query):
 
 def main():
     print("API Integration Tool - Weather / Crypto / News")
-    print("No signup needed for any API")
     print("1. Weather\n2. Crypto\n3. News")
 
     choice = input("\nEnter choice (1/2/3): ")
